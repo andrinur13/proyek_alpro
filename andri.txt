@@ -1,0 +1,3 @@
+baju    29000
+kaos    30000
+celana  70000
