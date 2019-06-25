@@ -185,6 +185,16 @@ void laporan() {
         case 2:
         lap_keuangan();
         break;
+
+        case 3:
+        cout << "ok1" << endl;
+        lihatdata();
+        break;
+
+        case 4:
+        cout << "ok2" << endl;
+        namaPembeli();
+        break;
     }
 }
 
